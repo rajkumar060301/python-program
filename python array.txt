@@ -1,0 +1,12 @@
+1.write a program python to print table of given number
+2.warp to factorial of given number
+3.wap to print the following given pattern in python
+						*
+					  *    *
+				    *	*	*
+				 *	*	*	* *
+4.wap to copy all the element one array to another array
+5.wap to find the largest element to an array.
+6.wap to print element of array of even number.
+7.wap to array to reverse order
+8.wap to duplicates element to in array.

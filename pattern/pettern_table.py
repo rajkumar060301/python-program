@@ -1,3 +1,5 @@
+# 3.wap to print the following given pattern in python
+
 n = int(input())
 z = n
 for i in range(0, n):
